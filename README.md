@@ -40,4 +40,8 @@ module "gitops_factory" {
 
 ### [Launch GitOps Factory →](https://opscontractordev.super.site)
 
+> Want access to the full Terraform deployment code?  
+> Request private access at [your email] or through [your Super site].
+
+
 *Generated on 2025-05-22 by The Contractor.*
